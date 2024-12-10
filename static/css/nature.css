@@ -1,0 +1,16 @@
+body{
+    background-color: cornsilk;
+    color: black;
+    text-align: center;
+}
+
+h1,h2{
+    font-size: larger;
+    font-style: italic;
+}
+img{
+    width: 400px;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 5px;
+}
+
